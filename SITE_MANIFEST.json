@@ -1,0 +1,207 @@
+{
+  "domain": "automaticwrist",
+  "niche": "Haute Horology & Telemeter Chronographs",
+  "design_concept": "Nordic Vanguard & Minimalist Organic",
+  "archetype_id": "nordic_organic",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "world_time_chronometer_dial.jpg",
+      "size_kb": 64.33,
+      "md5": "9445487a27fe3ee61a9864d697c5cd25",
+      "description": "Grand complication world time chronometer with rotating 24-city bezel",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "horology_crown_mechanism_detail.jpg",
+      "size_kb": 81.79,
+      "md5": "c11d538efeee3652b1874871a2778007",
+      "description": "Macro perspective of fluted winding crown and dual timezone pushers",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "fluted_bezel_dress_chronometer.jpg",
+      "size_kb": 99.61,
+      "md5": "5a206424964f55372af6d7ef5f6ab64c",
+      "description": "Polished steel world time watch with hand-guilloche dial texture",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "watchmaker_workbench_calibers.jpg",
+      "size_kb": 76.13,
+      "md5": "b40723d6375cce4c1b977d4ba5fb1df8",
+      "description": "Master horologist bench with micro-tweezers and disassembled caliber",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "horological_complication_assembly.jpg",
+      "size_kb": 46.84,
+      "md5": "7b4b00066d80793fbe332badf4052b39",
+      "description": "Horological artisan adjusting minute repeater chiming gongs",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "curated_haute_horlogerie_case.jpg",
+      "size_kb": 60.72,
+      "md5": "4b75187cffcde6405308cfc7c3b59c8b",
+      "description": "Collector presentation vitrine of bespoke world time chronometers",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "gentleman_wrist_chronometer.jpg",
+      "size_kb": 48.4,
+      "md5": "f88b0bef6a76ada7a51aed6a07e83c86",
+      "description": "Sartorial wrist presentation of world time complication on leather",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "titanium_sports_chronometer.jpg",
+      "size_kb": 32.35,
+      "md5": "1618e9a4b583857a592d10f2c61ff0fe",
+      "description": "Grade 5 titanium lightweight world time chronometer with ceramic bezel",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "perpetual_moonphase_timepiece.jpg",
+      "size_kb": 53.09,
+      "md5": "6c45cb9cfd80d16529b2fd227700363f",
+      "description": "Rose gold manual mechanical chronometer with moonphase indicator",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "classic_gold_dress_watch.jpg",
+      "size_kb": 135.05,
+      "md5": "dfe6dbfbeb5a549eba5c313e47b2269d",
+      "description": "Ultra-thin manual dress chronometer in 18k yellow gold",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "festive_timepiece_presentation.jpg",
+      "size_kb": 62.92,
+      "md5": "7e13d7179c37c26538799e843bc3b342",
+      "description": "Bespoke hand-wound watch styled on artisan textured canvas",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "luxury_jewelry_watch_accessories.jpg",
+      "size_kb": 82.35,
+      "md5": "586aceb2a71df160b4ef3c3b51e0a0e8",
+      "description": "Curated luxury jewelry and fine mechanical timepiece display",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "fine_leather_watch_strap_macro.jpg",
+      "size_kb": 33.69,
+      "md5": "35d8ff03627a7889bac5f6f40ebd9864",
+      "description": "Macro stitching detail on hand-cut vegetable-tanned leather strap",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "vintage_watch_patina_case.jpg",
+      "size_kb": 148.24,
+      "md5": "f9b9874e19774b52308ec12a671f331b",
+      "description": "Aged bronze and patinated brass manual winding chronometer",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "horological_tool_tray.jpg",
+      "size_kb": 47.76,
+      "md5": "edfb9474cef801bed6c378ec5bfa8fe5",
+      "description": "Minimalist wooden tray displaying watchmaker micro-screwdrivers and tweezers",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "leather_briefcase_watch_carrier.jpg",
+      "size_kb": 101.74,
+      "md5": "46bed05ef0dcb4f2bb210e46eb179d50",
+      "description": "Handcrafted leather attach\u00e9 case fitted with velvet watch carriers",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "precision_measuring_caliper.jpg",
+      "size_kb": 61.95,
+      "md5": "582805556d58ab71a0acf7ee4e3afe76",
+      "description": "Micrometer caliper measuring gear tooth tolerances in horology atelier",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "alligator_strap_horological_study.jpg",
+      "size_kb": 85.05,
+      "md5": "10291ffa64ac36a2a8ad45863fe4e690",
+      "description": "Hand-stitched Louisiana alligator strap on platinum case timepiece",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "chronograph_sports_timer.jpg",
+      "size_kb": 117.67,
+      "md5": "8135955782e4301ca090a8d34420030a",
+      "description": "High-performance world timer sports chronometer with ceramic bezel",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "coffret_watch_collection.jpg",
+      "size_kb": 133.46,
+      "md5": "bd762e6d4c2d74de993113f495feb6c5",
+      "description": "Solid walnut collector presentation coffret housing world timers",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://automaticwrist.com/sitemap.xml",
+    "robots": "https://automaticwrist.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
